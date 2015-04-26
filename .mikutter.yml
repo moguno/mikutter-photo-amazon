@@ -1,0 +1,9 @@
+---
+slug: :mikutter-photo-amazon
+depends:
+  mikutter: 3.2.2
+  plugin: []
+version: '0.0.1'
+author: 
+name: mikutter-photo-amazon
+description: Amazonの画像サムネイルを表示
